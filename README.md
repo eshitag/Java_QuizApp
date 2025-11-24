@@ -1,4 +1,4 @@
-#QuizApp – Client & Server
+QuizApp – Client & Server
 
 This project is a multiplayer Quiz Application built with Java, consisting of a QuizApp Server and QuizApp Client. The client communicates with the server for user registration, login, challenges, quiz attempts, and result display.
 
